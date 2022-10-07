@@ -5,7 +5,7 @@
 ## We are presenting you our team (Unfortunately, we cannot accept any new members at the moment!)
 
 | # |   Roles   |  Get in touch with us! | Student Identification Code |
-| ------------- | ------------- | -------- |
+| ------------- | ------------- | -------- | -------- |
 | 1 |     Admin       | [Spyros Kokotos](https://github.com/Greekforce1821)  | inf2021098 |
 | 2 |     Member      | [Pavlos Giannakos](https://github.com/Giannpavlos)   | inf2021040 |
 | 3 |     Member      | [Stamaths Petrou](https://github.com/stamathsp)      | inf2021186 |
