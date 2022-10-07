@@ -6,11 +6,11 @@
 
 | # |   Roles   |  Get in touch with us! | Student Identification Code |
 | ------------- | ------------- | -------- |
-| 1 |     Admin       | [Spyros Kokotos](https://github.com/Greekforce1821)  | inf2021098
-| 2 |     Member      | [Pavlos Giannakos](https://github.com/Giannpavlos)   | inf2021040
-| 3 |     Member      | [Stamaths Petrou](https://github.com/stamathsp)      | inf2021186
-| 4 |     Member      | [Ifigeneia Koutli](https://github.com/inf2021107)    | inf2021107
-| 5 |     Member      | [Lefteris Bontis](https://github.com/TheBond08)      | inf2021160
+| 1 |     Admin       | [Spyros Kokotos](https://github.com/Greekforce1821)  | inf2021098 |
+| 2 |     Member      | [Pavlos Giannakos](https://github.com/Giannpavlos)   | inf2021040 |
+| 3 |     Member      | [Stamaths Petrou](https://github.com/stamathsp)      | inf2021186 |
+| 4 |     Member      | [Ifigeneia Koutli](https://github.com/inf2021107)    | inf2021107 |
+| 5 |     Member      | [Lefteris Bontis](https://github.com/TheBond08)      | inf2021160 |
                      
 
 
