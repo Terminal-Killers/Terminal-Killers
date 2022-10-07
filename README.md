@@ -4,8 +4,8 @@
 
 ## We are presenting you our team (Unfortunately, we cannot accept any new members at the moment!)
 
-| # | | Usernames |   Student Identification Code   |  Links for the Github profiles|
-| ------------- | ------------- | -------- |
+| # | | Usernames      |   Student Identification Code   |  Links for the Github profiles|
+| -------------| ------------- | -------- |
 | 1 | | Greekforce1821 |    inf2021098      | [Spyros Kokotos](https://github.com/Greekforce1821)       |
 | 2 | | Giannpavlos    |    inf2021040      | [Pavlos Giannakos](https://github.com/Giannpavlos)        |
 | 3 | | Stamathsp      |    inf2021186      | [Stamaths Petrou](https://github.com/stamathsp)           |
