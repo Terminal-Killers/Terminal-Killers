@@ -23,7 +23,7 @@ The administration of the Terminal Killers
 ---
 
 ## Discussions
-In Unixidized Discussions, you will have the ability to:
+In Terminal-Killers Discussions, you will have the ability to:
 - Ask questions
 - Help other members 
 - Post your progress
