@@ -20,6 +20,19 @@ Kind regards,
 
 The administration of the Terminal Killers
 
+---
+
+## Discussions
+In Unixidized Discussions, you will have the ability to:
+- Ask questions
+- Help other members 
+- Post your progress
+- Read announcements
+
+You can visit Terminal-Killers discussions by clicking [here](https://github.com/Terminal-Killers/Terminal-Killers/discussions).
+
+---
+
 
 
 
